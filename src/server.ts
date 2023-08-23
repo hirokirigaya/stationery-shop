@@ -1,4 +1,4 @@
-import { app } from './config';
+import { app } from '@/config';
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 
